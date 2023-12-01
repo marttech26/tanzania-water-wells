@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![Water well](./Beast.JPG)
+![Water well](Beast.jpg)
 
 Located in Eastern Africa, Tanzania is the largest country in East Africa with a population of approximately 66 million people (2023 est.). Despite its size, Tanzania faces a significant challenge as around 26 million inhabitants lack direct access to clean water. The need to travel for kilometers to obtain this vital resource exacerbates the adverse consequences of water scarcity, impacting agriculture, health, and contributing to high infant mortality rates.
 
