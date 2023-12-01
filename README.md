@@ -70,3 +70,7 @@ The top-performing model is the baseline XGBClassifier, demonstrating a training
 ## Next Steps
 
 Integrate maintenance records to reflect repairs made to waterpoints, preventing repeated classification as needing repairs. Explore additional classifiers to prioritize maintenance for non-functional waterpoints.
+
+## Contributor
+
+- [Emmanuel Rono](https://github.com/marttech26)
