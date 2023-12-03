@@ -1,4 +1,4 @@
-# Beast Philanthropy Tanzania Water Well Project
+# Beast Philanthropy Tanzania Water Well Classifier
 
 ## Introduction
 
