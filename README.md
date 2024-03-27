@@ -14,7 +14,7 @@ Philanthropist and YouTuber Jimmy Donaldson, known as 'Mr. Beast,' in collaborat
 
 As part of Beast Philanthropy's initiative, the task involves developing a classification model to predict the operational status of wells.
 
-## Metric of Success.
+## Metric of Success
 
 The model's success will be measured by achieving an accuracy of at least 70%.
 
